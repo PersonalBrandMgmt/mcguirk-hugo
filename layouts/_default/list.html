@@ -131,33 +131,7 @@
         </div>
     </div>
 
-    <div id="colorlib-blog">
-        <div class="container">
-            <div class="row text-center">
-                <h2 class="bold">Experience</h2>
-            </div>
-            <div class="row">
-                <div class="col-md-12 col-md-offset-0 text-center animate-box intro-heading">
-                    <span>Read More</span>
-                    <h2>Experience & Contributions</h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="rotate">
-                        <h2 class="heading">Experience</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row animate-box">
-                <div class="owl-carousel1">
-                    {{ range .Pages }}
-                        {{ .Render "li" }}
-                    {{ end }}
-                </div>
-            </div>
-        </div>
-    </div>
+    {{ partial "articles.html" . }}
 
     <div id="colorlib-testimony">
         <div class="container">
@@ -213,6 +187,8 @@
             </div>
         </div>
     </div>
+
+    {{ partial "books.html" . }}
 
     {{ partial "footer.html" . }}
 
