@@ -12,4 +12,4 @@ largeHeading2: "Chartered Financial Analyst"
 series: posts
 draft: false
 ---
-I have decided to prepare for the CFA exam in December with the intention of becoming a member of CFA Institute in the long term. I believe the curriculum in my university courses this year and next will lend itself nicely to my success in the first CFA exam. Currently, I am undecided to pursuing a Masters degree and so starting the CFA program is the step I’m taking at the moment to prepare myself for work following next year.
+Hey this **<span style="color: rgb(97,189,109);">editor</span>** [rocks](http://google.com)  😀

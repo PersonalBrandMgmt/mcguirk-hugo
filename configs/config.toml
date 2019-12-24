@@ -1,6 +1,6 @@
 baseURL = "http://www.connorreardon.com.s3-website.us-east-2.amazonaws.com"
 languageCode = "en-us"
-title = "Connor Reardon"
+title = "Kieran Derfus"
 
 [params]
     ## Style ##
@@ -9,7 +9,7 @@ title = "Connor Reardon"
 
     ## Intro ##
     firstName = "Connor"
-    lastName = "Reardon"
+    lastName = "Carson"
     intro = "Hi, I’m Connor. I study finance and math at Wake Forest University. My interests include studying the global marketplace and engaging people from different cultures and backgrounds. Upon graduation in May 2020, I’m looking for a full-time position where I can further explore the world of finance."
     resume = "./pdf/ReardonResume.pdf"
     firstInitial = "C"
